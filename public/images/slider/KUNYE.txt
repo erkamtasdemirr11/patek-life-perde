@@ -1,0 +1,10 @@
+Slider fotoğrafları — hepsi CC0 1.0 (kamu malı; ticari kullanım serbest, atıf zorunlu değil).
+Kaynak: WordPress Fotoğraf Dizini (wordpress.org/photos). 1920x1080'e kırpılıp yeniden boyutlandırıldı.
+
+slayt-1.jpg  Rubel Miah        https://wordpress.org/photos/photo/24689419ca/   (otel odası, yerden tavana fon perdeler)
+slayt-2.jpg  Manjil Aryal      https://wordpress.org/photos/photo/89569be0ff/   (renkli kumaş topları)
+slayt-3.jpg  Sharankrishna VP  https://wordpress.org/photos/photo/873654c388/   (ahşap pencere ve tül perdeler)
+
+Kendi fotoğraflarınızı koyarken aynı adları kullanabilir ya da config/site.php > slaytlar listesini güncelleyebilirsiniz.
+
+Hiz icin .webp kopyalari uretildi; config/site.php bunlari kullanir. .jpg dosyalari kaynak olarak duruyor.
